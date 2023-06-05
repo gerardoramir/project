@@ -1,0 +1,12 @@
+<h>
+Carroll Shelby was an early pioneer in high performance street trucks, beginning with his first production version almost 30 years ago.
+</h>
+<br>
+<img src="https://www.shelby.com/portals/0/Images/trip-SSSport-styling.jpg" alt="truck" width="300">
+<br>
+This truck is normally sold with a standard 395 horsepower 5.0 liter V8 engine. Choose the supercharged version and that “no time” will indeed be “no time”, as the supercharger almost doubles (to 770) the available horsepower.
+<br>
+<img src="https://www.shelby.com/portals/0/Images/trip-SSSport-interior.jpg" alt="interior" width="300">
+<br>
+Every Super Snake Sport receives new leather seat covers, and Super Snake Sport embroidery. The leather seats and Suedezkin inserts give the sport truck luxury feel and comfort.
+
